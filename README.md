@@ -74,8 +74,12 @@
 
 
 ## Creative Stuff  
-<!-- BLOG-POST-LIST:START -->  
-
+<!-- BLOG-POST-LIST:START -->
+- [Stay](https://elliott1022.wixsite.com/ephemeris/post/_stay)
+- [Long Due - An Apology](https://elliott1022.wixsite.com/ephemeris/post/long-due-an-apology)
+- [Empathy](https://elliott1022.wixsite.com/ephemeris/post/empathy)
+- [Elevated](https://elliott1022.wixsite.com/ephemeris/post/elevated)
+- [Email Anxiety](https://elliott1022.wixsite.com/ephemeris/post/email-anxiety)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
