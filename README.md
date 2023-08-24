@@ -1,4 +1,4 @@
-### <div align="center">Hey I'm Parjanya, 👨‍💻 Final-year B.Tech student, fueled by curiosity and caffeine!</div>  
+### <div align="left">Hey I'm Parjanya, 👨‍💻 Final-year B.Tech student, fueled by curiosity and caffeine!</div>  
   
 
 🔐 Cybersecurity and Networking enthusiast, decoding digital puzzles.  
@@ -82,6 +82,3 @@
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kmrbww6ac6a72dylxm3w375fu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" /></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
