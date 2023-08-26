@@ -1,4 +1,5 @@
-### <div align="left">Hey I'm Parjanya, 👨‍💻 Final-year B.Tech student, fueled by curiosity and caffeine!</div>  
+![Header](./github-header-image.png)
+### <div align="left">👨‍💻 Final-year B.Tech student, fueled by curiosity and caffeine!</div>  
   
 
 🔐 Cybersecurity and Networking enthusiast, decoding digital puzzles.  
