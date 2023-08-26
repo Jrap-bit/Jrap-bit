@@ -23,7 +23,7 @@
 #### 🚀 Infatuated with programming, I'm always hungry to learn and dive into exhilarating tech ventures. Ready to code the next chapter of innovation! 💻🌟  
   
 
-<br/>  
+<br/>
 
 <div align = 'center' >
   <h2> Click Here To See My Resume </h2>
@@ -32,6 +32,35 @@
  </a>
 </div>
 
+## My Projects
+<h4 align = 'center'>The things I have learned and practiced all in one place </h4>
+<div align = 'center'>
+ <a href="https://github.com/Jrap-bit/TuneLink">
+ <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=jrap-bit&repo=TuneLink&theme=dark&hide_border=true" />
+ </a>
+ <a href="https://github.com/Jrap-bit/MalwareGuard">
+ <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=Jrap-bit&repo=MalwareGuard&theme=dark&hide_border=true" />
+ </a>
+</div>
+<div align='center'>
+ <a href="https://github.com/Jrap-bit/CipherGuard">
+ <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=Jrap-bit&repo=CipherGuard&theme=dark&hide_border=true" />
+ </a>
+
+ <a href="https://github.com/MrDXTR/MetroDeals">
+ <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=MrDXTR&repo=MetroDeals&theme=dark&hide_border=true" />
+ </a>
+</div>
+<div align='center'>
+ <a href="https://github.com/Jrap-bit/Attendance-System">
+ <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=Jrap-bit&repo=Attendance-System&theme=dark&hide_border=true" />
+ </a>
+
+ <a href="https://github.com/Akshat7274/v6_main_site">
+ <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=Akshat7274&repo=v6_main_site&theme=dark&hide_border=true" />
+ </a>
+</div>
+<hr>
 
 ## Languages and Tools  
 <div align="center">  
