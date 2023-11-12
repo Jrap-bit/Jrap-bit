@@ -105,7 +105,7 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="35" /></a> 
 <a href="https://app.powerbi.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="PowerBI" height="35" /></a> 
 <a href="https://www.notion.so/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" height="35" /></a>
-<a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="  https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" height="35" /></a>
+<a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" height="35"/></a>
 
 
 </div>
