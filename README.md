@@ -149,9 +149,14 @@
 
 <br/>  
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kmrbww6ac6a72dylxm3w375fu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=kmrbww6ac6a72dylxm3w375fu&redirect=true)
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kmrbww6ac6a72dylxm3w375fu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kmrbww6ac6a72dylxm3w375fu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile" style="height: 400px; object-fit: cover;"/>
+  </a>
+
+  <img src="https://github-profile-apple-music.web.app/api/v1/users/UtGr0E45RAyPR65VDaiw/recent/played/tracks?template=template_1_2" alt="Apple Music Recent Tracks" style="height: 400px; object-fit: cover;" />
 
 </div>
+
 <br />
