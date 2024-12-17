@@ -149,5 +149,9 @@
 
 <br/>  
 
+<div align="center">
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kmrbww6ac6a72dylxm3w375fu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=kmrbww6ac6a72dylxm3w375fu&redirect=true)
+
+</div>
 <br />
