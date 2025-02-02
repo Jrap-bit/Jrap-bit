@@ -140,11 +140,11 @@
 
 ## Creative Stuff  
 <!-- BLOG-POST-LIST:START -->
+- [An Excuse](https://elliott1022.wixsite.com/ephemeris/post/an-excuse)
 - [Irrationally Mine](https://elliott1022.wixsite.com/ephemeris/post/irrationally-mine)
 - [Stay](https://elliott1022.wixsite.com/ephemeris/post/_stay)
 - [Long Due - An Apology](https://elliott1022.wixsite.com/ephemeris/post/long-due-an-apology)
 - [Empathy](https://elliott1022.wixsite.com/ephemeris/post/empathy)
-- [Elevated](https://elliott1022.wixsite.com/ephemeris/post/elevated)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
