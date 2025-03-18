@@ -1,18 +1,15 @@
 ![Header](./github-header-image.png)
-### <div align="left">👨‍💻 Final-year B.Tech student, fueled by curiosity and caffeine!</div>  
-  
+### <div align="left">👨‍💼 Product Manager with a passion for building impactful security solutions!</div>  
 
-🔐 Cybersecurity and Networking enthusiast, decoding digital puzzles.  
-  
+🔐 Former IBM APM, led integrations for QRadar SIEM with top-tier cybersecurity vendors.
 
-🐍 Python and C++ aficionado, crafting elegant solutions.  
-  
+⚙️ Cybersecurity and SIEM enthusiast, bridging gaps between customers and technology.
+
+🐍 Python & C++ practitioner, automating and enhancing security workflows.
 
 🌐 Web development hobbyist, turning code into captivating interfaces.  
-  
 
 🎨 Adobe Photoshop and Illustrator apprentice, painting pixels with precision.  
-  
 
 📝 Creative writer in the making, penning tales of tech and imagination.  
   
@@ -27,7 +24,7 @@
 
 <div align = 'center' >
   <h2> Click Here To See My Resume </h2>
- <a href="https://drive.google.com/file/d/1VreJOEqgX3gnOZPjx094Db-3M43oCPjC/view?usp=sharing" target="_blank">
+ <a href="https://drive.google.com/file/d/1Ldv4SGamUgnLpv7WK74syVsKpBCW6u1I/view?usp=sharing" target="_blank">
  <img src="https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=resume&logoColor=white" width="130" height="50" />
  </a>
 </div>
@@ -35,11 +32,12 @@
 ## My Projects
 <h4 align = 'center'>The things I have learned and practiced all in one place </h4>
 <div align = 'center'>
+  <a href="https://github.com/Jrap-bit/CoffeeChain">
+ <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=jrap-bit&repo=CoffeeChain&theme=dark&hide_border=true" />
+ </a>
+  
  <a href="https://github.com/Jrap-bit/TuneLink">
  <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=jrap-bit&repo=TuneLink&theme=dark&hide_border=true" />
- </a>
- <a href="https://github.com/Jrap-bit/MalwareGuard">
- <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=Jrap-bit&repo=MalwareGuard&theme=dark&hide_border=true" />
  </a>
 </div>
 <div align='center'>
@@ -55,7 +53,9 @@
  <a href="https://github.com/Jrap-bit/Attendance-System">
  <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=Jrap-bit&repo=Attendance-System&theme=dark&hide_border=true" />
  </a>
-
+<a href="https://github.com/Jrap-bit/MalwareGuard">
+ <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=Jrap-bit&repo=MalwareGuard&theme=dark&hide_border=true" />
+ </a>
  <a href="https://github.com/Akshat7274/v6_main_site">
  <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=Akshat7274&repo=v6_main_site&theme=dark&hide_border=true" />
  </a>
@@ -154,8 +154,6 @@
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kmrbww6ac6a72dylxm3w375fu&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kmrbww6ac6a72dylxm3w375fu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile" style="height: 400px; object-fit: cover;"/>
   </a>
-
-  <img src="https://github-profile-apple-music.web.app/api/v1/users/UtGr0E45RAyPR65VDaiw/recent/played/tracks?template=template_1_2" alt="Apple Music Recent Tracks" style="height: 400px; object-fit: cover;" />
 
 </div>
 
