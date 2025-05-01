@@ -140,11 +140,11 @@
 
 ## Creative Stuff  
 <!-- BLOG-POST-LIST:START -->
-- [An Excuse](https://elliott1022.wixsite.com/ephemeris/post/an-excuse)
-- [Irrationally Mine](https://elliott1022.wixsite.com/ephemeris/post/irrationally-mine)
-- [Stay](https://elliott1022.wixsite.com/ephemeris/post/_stay)
-- [Long Due - An Apology](https://elliott1022.wixsite.com/ephemeris/post/long-due-an-apology)
-- [Empathy](https://elliott1022.wixsite.com/ephemeris/post/empathy)
+- [An Excuse](https://parjanya.vercel.app/blog/an-excuse)
+- [Irrationally Mine](https://parjanya.vercel.app/blog/irrationally-mine)
+- [Stay](https://parjanya.vercel.app/blog/stay)
+- [Long Due - An Apology](https://parjanya.vercel.app/blog/long-due)
+- [Empathy](https://parjanya.vercel.app/blog/empathy)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
