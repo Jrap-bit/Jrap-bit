@@ -141,10 +141,10 @@
 ## Creative Stuff  
 <!-- BLOG-POST-LIST:START -->
 - [An Excuse](https://parjanya.vercel.app/blog/an-excuse)
-- [An Excuse](https://parjanya.vercel.app/blog/on-the-brink-of-life)
 - [Irrationally Mine](https://parjanya.vercel.app/blog/irrationally-mine)
 - [Stay](https://parjanya.vercel.app/blog/stay)
 - [Long Due - An Apology](https://parjanya.vercel.app/blog/long-due)
+- [Empathy](https://parjanya.vercel.app/blog/empathy)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
